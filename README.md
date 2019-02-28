@@ -1,12 +1,19 @@
 # Labb_JavaWebServiceIntegration_SimpleHttpPlugin
 A simple Http plugin written for a Java based Http Server (lab project) mainly done by Hjalmar at https://github.com/vargen2/WebServer
 
-The purpose of the lab project was to create a Java based Http server.
-The main work was done by Hjalmar: https://github.com/vargen2
-and the project got its repo at https://github.com/vargen2/WebServer
-Other contributors to the lab project are Maksym and Bob.
+The purpose of the lab project was to create a Java based Http server that accessed the Http Request Response objects and makes mappings from plugins to the plugin codes.
+The main work was done by Hjalmar: https://github.com/vargen2 Other contributors are Maksym + Bob.
 
-The Http server uses Http request response objects with plugins developed in Java, Html, JavaScript and Css.
-The plugins can easily be added to the web server since annotations and mapping to the plugins is used in the program.
+The Http server returns pages in Html, JavaScript and Css.
+The plugins can be easily added to the web server since annotations and mappings are used.
 
-this simple plugin will retrieve rows from an Sqlite3 database and return results as Html pages.
+This plugin is called "SimplePhrases" and accesses and returns rows from an Sqlite3 database through Html.
+Some of the other Java plugins currenly writen for the server (which can be found at the main project repo) are:
+- Account
+- Calculator
+- Login
+- ServerStats
+- SimpleDynamicDate
+- SimplePostForm
+
+See the prject main repo for all plugins and respective code.
