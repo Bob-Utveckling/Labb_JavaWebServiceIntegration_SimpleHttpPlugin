@@ -1,0 +1,82 @@
+
+body {
+    background-color: cadetblue;
+}
+
+#phrase {
+    background-color: rgba(195, 154, 19, 0.48);
+    position: relative;
+    left: 50%;
+    width:450px;
+    margin-left: -225px;
+    border: 1px solid sandybrown;
+    height: 250px;
+    top: 50%;
+    margin-top: -200px;
+    padding: 15px;
+    font-size: 20px;
+
+}
+
+#phraseReference {
+    background-color: rgba(195, 154, 19, 0.48);
+    position: relative;
+    left: 50%;
+    width:450px;
+    margin-left: -225px;
+    border: 1px solid sandybrown;
+    height: 70px;
+    top: 50%;
+    margin-top: 20px;
+    padding: 15px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+
+
+#main_container {
+
+    /* image from https://4.imimg.com/data4/IR/IJ/MY-3890861/pine-wood-500x500.jpg */
+    position: absolute;
+    left:50%;
+    margin-left: -300px;
+    top: 50%;
+    margin-top: -200px;
+    top: 300px;
+    border-radius: 20px;
+    background-image: url("http://bamshad.se/wp-content/uploads/2019/02/background1.jpg");
+    border: 1px solid brown;
+    width: 600px;
+    height: 500px;
+    font-size: 18px;
+
+}
+
+#previous_button {
+    width: 100px;
+    background-color: antiquewhite;
+    position: absolute;
+    left: 50%;
+    margin-left: -421px;
+    top: 50%;
+    font-size: 20px;
+    font-family: Tahoma;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding:10px;
+}
+
+#next_button {
+    width: 80px;
+    background-color: antiquewhite;
+    position: absolute;
+    left: 50%;
+    margin-left: 300px;
+    top: 50%;
+    font-size: 20px;
+    font-family: Tahoma;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding:10px;
+}
