@@ -1,7 +1,7 @@
 # Labb_JavaWebServiceIntegration_SimpleHttpPlugin
 A simple Http plugin written for a Java based Http Server (lab project) mainly done by Hjalmar at https://github.com/vargen2/WebServer
 
-The purpose of the lab project was to create a Java based Http server that accessed the Http Request Response objects and makes mappings from plugins to the plugin codes.
+The purpose of the lab project was to create a Java based Http server that accesses the Http Request Response objects and makes mappings from plugins to the plugin codes.
 The main work was done by Hjalmar: https://github.com/vargen2 Other contributors are Maksym + Bob.
 
 The Http server returns pages in Html, JavaScript and Css.
