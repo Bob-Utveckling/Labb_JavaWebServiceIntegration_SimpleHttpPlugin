@@ -1,5 +1,5 @@
 # Labb_JavaWebServiceIntegration_SimpleHttpPlugin
-A simple Http plugin written for a complete Http Server project mainly done by Hjalmar at https://github.com/vargen2/WebServer
+A simple Http plugin written for a Java based Http Server (lab project) mainly done by Hjalmar at https://github.com/vargen2/WebServer
 
 The purpose of the lab project was to create a Java based Http server.
 The main work was done by Hjalmar: https://github.com/vargen2
