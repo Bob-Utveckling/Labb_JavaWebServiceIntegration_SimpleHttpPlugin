@@ -7,7 +7,7 @@ The main work was done by Hjalmar: https://github.com/vargen2 Other contributors
 The Http server returns pages in Html, JavaScript and CSS.
 The plugins can be easily added to the web server since annotations and mappings are used.
 
-This plugin is called "SimplePhrases" and accesses and returns rows from an Sqlite3 database through Html.
+This plugin is called "SimplePhrases" and retrieves rows from an Sqlite3 database and returns dynamic Html pages.
 Some of the other Java plugins currenly writen for the server (which can be found at the main project repo) are:
 - Account
 - Calculator
